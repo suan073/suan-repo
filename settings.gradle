@@ -1,0 +1,2 @@
+rootProject.name = "Knalendar"
+include ':app'
